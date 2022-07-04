@@ -36,6 +36,11 @@
 - [Clean temporal files from site from IIS Powershell](https://dev.to/redhcp/clean-temporal-files-from-site-from-iis-powershell-3cj1)
 - [Memory Process View Powershell](https://dev.to/redhcp/memory-process-view-powershell-30k4)
 - [Powershell find size logs and delete](https://dev.to/redhcp/powershell-find-size-logs-and-delete-3a4k)
+- [Bash Script Menu Install Apps](https://dev.to/redhcp/bash-script-menu-install-apps-53nh)
+- [Delete Logs Powershell](https://dev.to/redhcp/delete-logs-powershell-14mc)
+- [Powershell Memory Process View](https://dev.to/redhcp/powershell-memory-process-view-p30)
+- [Check - Unistall updates Windows 10 installed](https://dev.to/redhcp/check-unistall-updates-windows-10-installed-15ok)
+- [List or Remove apps default windows 10](https://dev.to/redhcp/list-or-remove-apps-default-win10-24gp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
