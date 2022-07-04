@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cesar!
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+Analyst+Systems+%26+Technical+Support;I+write+articles+on+Dev.to+~+redhcp)](https://git.io/typing-svg)
 <br><br>
 <a href="https://twitter.com/Th3Ces4r">
@@ -14,17 +15,16 @@
 <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 <br><br>
+
 ---
-
-
 
 - 🔷 I'm Cesar, Analyst Systems & Technical Support.
 
 - 🌱 I’m currently learning DevOps(SRE) methodologies.
 
-- 📝 I regularly write articles on https://dev.to/redhcp
+- 📝 I regularly write articles on https://dev.to/redhcp .
 
-- ⚡ Hobbies Playing Video games, Playing Futbol, Traveling
+- ⚡ Hobbies Playing Video games, Playing Futbol, Traveling.
 
 ---
 
@@ -32,8 +32,16 @@
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
-&#x1f4c8; My GitHub Stats
+### My GitHub Stats &#x1f4c8;
 
 [![Redhcp GitHub stats](https://github-readme-stats.vercel.app/api?username=redhcp&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+<details align= "right">
+<summary></summary>
+<br>
+<a href="https://komarev.com/ghpvc/?username=redhcp">
+<img src="https://komarev.com/ghpvc/?username=redhcp" />
+</a>&ensp;
+</details>
 
 ---
