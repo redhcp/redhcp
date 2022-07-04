@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cesar!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6001&color=1E6788&width=450&lines=Analyst+Systems+%26+Technical+Support;I+write+articles+on+Dev.to+~+redhcp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+Analyst+Systems+%26+Technical+Support;I+write+articles+on+Dev.to+~+redhcp)](https://git.io/typing-svg)
 <br><br>
 <a href="https://twitter.com/Th3Ces4r">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
