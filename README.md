@@ -31,6 +31,11 @@
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Get ALL processes data from host powershell](https://dev.to/redhcp/get-all-processes-data-from-host-powershell-3b8c)
+- [Create file with date in filename Powershell](https://dev.to/redhcp/create-file-with-date-in-filename-powershell-2ebo)
+- [Clean temporal files from site from IIS Powershell](https://dev.to/redhcp/clean-temporal-files-from-site-from-iis-powershell-3cj1)
+- [Memory Process View Powershell](https://dev.to/redhcp/memory-process-view-powershell-30k4)
+- [Powershell find size logs and delete](https://dev.to/redhcp/powershell-find-size-logs-and-delete-3a4k)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
