@@ -22,11 +22,18 @@
 
 - 🌱 I’m currently learning DevOps(SRE) methodologies.
 
+- ⏳ Exploring AWS Services.
+
 - 📝 I regularly write articles on https://dev.to/redhcp .
 
 - ⚡ Hobbies Playing Video games, Playing Futbol, Traveling.
 
 ---
+
+### Blog posts 📝
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
 
