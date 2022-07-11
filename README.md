@@ -31,6 +31,8 @@
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Obtain Memory VM - Powershell](https://dev.to/redhcp/obtain-memory-vm-powershell-4lba)
+- [Handler common Activities Tasks VMs](https://dev.to/redhcp/handler-common-activities-tasks-vms-5fni)
 - [Get ALL processes data from host powershell](https://dev.to/redhcp/get-all-processes-data-from-host-powershell-3b8c)
 - [Create file with date in filename Powershell](https://dev.to/redhcp/create-file-with-date-in-filename-powershell-2ebo)
 - [Clean temporal files from site from IIS Powershell](https://dev.to/redhcp/clean-temporal-files-from-site-from-iis-powershell-3cj1)
@@ -39,8 +41,6 @@
 - [Bash Script Menu Install Apps](https://dev.to/redhcp/bash-script-menu-install-apps-53nh)
 - [Delete Logs Powershell](https://dev.to/redhcp/delete-logs-powershell-14mc)
 - [Powershell Memory Process View](https://dev.to/redhcp/powershell-memory-process-view-p30)
-- [Check - Unistall updates Windows 10 installed](https://dev.to/redhcp/check-unistall-updates-windows-10-installed-15ok)
-- [List or Remove apps default windows 10](https://dev.to/redhcp/list-or-remove-apps-default-win10-24gp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
