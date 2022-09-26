@@ -30,6 +30,7 @@
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [List Numbers Files by Dir in Select Path - Powershell](https://dev.to/redhcp/list-numbers-files-by-dir-in-select-path-powershell-hgn)
 - [Security - Cybersecurity breach case](https://dev.to/redhcp/security-cybersecurity-breach-case-4bmg)
 - [Obtain Memory VM - Powershell](https://dev.to/redhcp/obtain-memory-vm-powershell-4lba)
 - [Handler common Activities Tasks VMs](https://dev.to/redhcp/handler-common-activities-tasks-vms-5fni)
@@ -39,7 +40,6 @@
 - [Memory Process View Powershell](https://dev.to/redhcp/memory-process-view-powershell-30k4)
 - [Powershell find size logs and delete](https://dev.to/redhcp/powershell-find-size-logs-and-delete-3a4k)
 - [Bash Script Menu Install Apps](https://dev.to/redhcp/bash-script-menu-install-apps-53nh)
-- [Delete Logs Powershell](https://dev.to/redhcp/delete-logs-powershell-14mc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
