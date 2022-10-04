@@ -30,6 +30,7 @@
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Powershell - Remove files - folders 📂](https://dev.to/redhcp/powershell-remove-files-folders-2622)
 - [List Numbers Files by Dir in Select Path - Powershell](https://dev.to/redhcp/list-numbers-files-by-dir-in-select-path-powershell-hgn)
 - [Security - Cybersecurity breach case](https://dev.to/redhcp/security-cybersecurity-breach-case-4bmg)
 - [Obtain Memory VM - Powershell](https://dev.to/redhcp/obtain-memory-vm-powershell-4lba)
@@ -39,7 +40,6 @@
 - [Clean temporal files from site from IIS Powershell](https://dev.to/redhcp/clean-temporal-files-from-site-from-iis-powershell-3cj1)
 - [Memory Process View Powershell](https://dev.to/redhcp/memory-process-view-powershell-30k4)
 - [Powershell find size logs and delete](https://dev.to/redhcp/powershell-find-size-logs-and-delete-3a4k)
-- [Bash Script Menu Install Apps](https://dev.to/redhcp/bash-script-menu-install-apps-53nh)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
