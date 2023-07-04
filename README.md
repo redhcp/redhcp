@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning DevOps(SRE) methodologies.
 
-- 📝 I regularly write articles on https://dev.to/redhcp .
+- 📝 I write articles on [https://dev.to/redhcp](https://dev.to/redhcp).
 
 - ⚡ Hobbies Playing Video games, Playing Futbol, Traveling.
 
