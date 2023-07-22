@@ -19,7 +19,7 @@
 
 - 🔷 I'm Cesar, Analyst Systems & Technical Support.
 
-- 🌱 I’m currently learning DevOps(SRE) methodologies.
+- 🌱 I’m currently learning DevOps methodologies.
 
 - 📝 I write articles on [https://dev.to/redhcp](https://dev.to/redhcp).
 
