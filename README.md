@@ -30,6 +30,7 @@
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Extensions Browser useful](https://dev.to/redhcp/extensions-browser-useful-3h4l)
 - [Powershell - Delete files by Size &amp; Telegram Notification](https://dev.to/redhcp/powershell-delete-files-by-size-telegram-notification-5fhf)
 - [Powershell Delete files by Size &amp; Notify Telegram Log](https://dev.to/redhcp/powershell-delete-files-by-size-notify-telegram-log-3ido)
 - [Powershell - Remove files - folders 📂](https://dev.to/redhcp/powershell-remove-files-folders-2622)
@@ -39,7 +40,6 @@
 - [Handler common Activities Tasks VMs](https://dev.to/redhcp/handler-common-activities-tasks-vms-5fni)
 - [Get ALL processes data from host powershell](https://dev.to/redhcp/get-all-processes-data-from-host-powershell-3b8c)
 - [Create file with date in filename Powershell](https://dev.to/redhcp/create-file-with-date-in-filename-powershell-2ebo)
-- [Clean temporal files from site from IIS Powershell](https://dev.to/redhcp/clean-temporal-files-from-site-from-iis-powershell-3cj1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧
