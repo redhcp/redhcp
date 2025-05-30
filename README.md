@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cesar!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Analyst+Systems+%26+Technical+Engineer+;I+write+articles+on+Dev.to+-+redhcp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&duration=6000&pause=200&color=35B7F1&center=true&vCenter=true&width=530&height=45&lines=I+am+a+Systems+Analyst+%26+Technical+Support+Specialist;Dev.to%2Fredhcp;Linkedin.com%2Fcyl90)](https://git.io/typing-svg)
 <br><br>
 <a href="https://twitter.com/Th3Ces4r">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -17,7 +17,7 @@
 
 ---
 
-- 🔷 I'm Cesar, Analyst Systems & Technical Support.
+- 🔷 I'm Cesar, I am a Analyst Systems & Technical Support Specialist.
 
 - 🌱 I’m currently learning DevOps methodologies.
 
