@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cesar!
+###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&pause=200&color=35B7F1&center=true&vCenter=true&repeat=false&width=530&height=45&lines=Hi+there++%F0%9F%91%8B++%2C+I'm+Cesar+!)](https://git.io/typing-svg)
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&duration=6000&pause=200&color=35B7F1&center=true&vCenter=true&width=530&height=45&lines=I+am+a+Technical+Support+Specialist+%26+System+Analist;Dev.to%2Fredhcp;Linkedin.com%2Fcylcyl)](https://git.io/typing-svg)
 <br><br>
 <a href="https://twitter.com/Th3Ces4r">
