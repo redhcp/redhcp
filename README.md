@@ -45,9 +45,9 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ### My GitHub Stats &#x1f4c8;
+[![GitHub Streak](https://streak-stats.demolab.com?user=redhcp&theme=windows-dark&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![Redhcp GitHub stats](https://github-readme-stats.vercel.app/api?username=redhcp&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
 <details align= "right">
 <summary></summary>
 <br>
